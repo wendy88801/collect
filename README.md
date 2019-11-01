@@ -1,8 +1,87 @@
-# collect
-sum  up
-11.1  
-  1.距离2020倒计时还有60天了，这个世界正在剧烈变化，每个人的命运都是那么的不确定，我得抓紧坚持每天学习努力生活啦
-  2.阮一峰的周刊从来没看过，今天看了两篇，最近每天至少看一篇早点追上一周一篇的节凑；
-  3.学习心得：了解flutter框架是做啥的，跨平台的，dart语言，谷歌公司开发的，仅此而已了
-  4.
+
       
+# h1 标题
+## h2 标题
+### h3 标题
+#### h4 标题
+##### h5 标题
+###### h6 标题
+
+
+## 水平线
+
+___
+
+---
+
+***
+
+
+## 文本样式
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
+
+
+## 列表
+
+无序
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+
+有序
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
+
+Start numbering with offset:
+
+57. foo
+1. bar
+
+
+## 代码
+
+Inline `code`
+
+Indented code
+
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+
+
+Block code "fences"
+
+```
+Sample text here...
+```
+
+Syntax highlighting
+
+``` js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
