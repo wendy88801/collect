@@ -1,4 +1,4 @@
-11.2
+
       ## 解决ios fixed定位导致input失去焦点的时候看不到fixed元素代码
        
     let input = [...document.getElementsByTagName('input')]
