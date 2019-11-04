@@ -19,4 +19,4 @@
  
  . []  了解 package.json   所以的配置参数
  
- ,mnuuuyyyt. []  搭建一个私有npm  
+. []  搭建一个私有npm  
