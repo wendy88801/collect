@@ -17,6 +17,6 @@
 ### 11.4 todoList
 - [x]   如何成功发布一个 npm 包
 - [ ] 了解 package.json   所有的配置参数
-- [ ] 搭建一个私有npm  
+- [ ] 搭建一个私有 npm  
 
 
