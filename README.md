@@ -15,8 +15,14 @@
 
 
 ### 11.4 todoList
- . [x]　试着发布成功一个npm 包的流程
+.[x]　试着发布成功一个npm 包的流程
  
- . []  了解 package.json   所以的配置参数
- 
-. []  搭建一个私有npm  
+.[]  了解 package.json   所以的配置参数
+ .[]  搭建一个私有npm  
+[x] C
+[x] C++
+[x] Java
+[x] Qt
+[x] Android
+[ ] C#
+[ ] .NET
