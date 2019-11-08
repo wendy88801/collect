@@ -47,6 +47,5 @@ $('.stop-scroll').on('touchmove',function(e){
           window.scrollTo(0, 0)
         }, 100)
       }
-      console.log(aaaa);
     })
   ```
