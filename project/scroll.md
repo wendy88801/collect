@@ -24,8 +24,8 @@
 
 ### 关于js的解决方案
 
- - **vue下，直接加一个@touchmove.prevent** 
- - ** 用原生js,则统一给一个class元素添加touchmove事件，并阻止默认行为
+ *[^_^]:vue下，直接加一个@touchmove.prevent** 
+ *[^_^]: 用原生js,则统一给一个class元素添加touchmove事件，并阻止默认行为
  这里使用了jquery** 
 
 
