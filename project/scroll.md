@@ -19,6 +19,8 @@
         }
     }
 }
+```
+
 
 ### 关于js的解决方案
 
@@ -31,4 +33,5 @@ $('.stop-scroll').on('touchmove',function(e){
     e.preventDefault();
 })
 
+```
 
