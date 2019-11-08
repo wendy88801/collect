@@ -1,6 +1,6 @@
 ### 关于css的解决方案
 
-、、、 1. overflow:hidden;
+- **overflow:hidden;**  
 
 这是最多人开始想到的解决方法，虽然在pc端可以解决问题，但在移动端是不行的，
 但有人说在html,body同时设置overflow:hidden可以，但经测试，效果不啥的。。。
