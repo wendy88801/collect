@@ -36,3 +36,15 @@ $('.stop-scroll').on('touchmove',function(e){
 
 ```
 
+### 有关ios手机底部fixed的时候弹出框弹出框后关闭不显示的问题
+
+  ```
+      input.forEach(ele => {
+      ele.onblur = () => {
+        setTimeout(() => {
+          window.scrollTo(0, 0)
+        }, 100)
+      }
+      console.log(aaaa);
+    })
+  ```
