@@ -7,7 +7,7 @@
 在安卓上勉强还行，但会有一卡一卡的效果，ios上直接不行
 
 
-// vue
+
 ```   watch:{
     showMark:function(val){
         if(val){
