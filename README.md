@@ -27,6 +27,8 @@
 - [百度地图定位拾取坐标](http://api.map.baidu.com/lbsapi/getpoint/index.html?qq-pf-to=pcqq.c2c)
 - [地图API示列](http://lbsyun.baidu.com/jsdemo.htm#i7_2?qq-pf-to=pcqq.c2c)
 - [vue插件大全](https://www.3mooc.com/front/articleinfo/625?tdsourcetag=s_pcqq_aiomsg)
+- [微信小程序开发ui组件库](https://www.jianshu.com/p/4182f4a18cb6)
+
 
 
 
